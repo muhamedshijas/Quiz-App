@@ -44,3 +44,7 @@ button{
     font-size: 1.5rem;
     overflow: hidden;
 }
+.quiz-container h2{
+    padding: 10px;
+    
+}

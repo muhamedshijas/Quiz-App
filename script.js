@@ -129,7 +129,7 @@ submitBtn.addEventListener('click', () => {
 
             loadQuiz()
         } else {
-          quiz.innerHTML=`You answerd Correctly<h2>${score}/${quizData.length} questions</h2>`
+          quiz.innerHTML=`<h2>You answerd Correctly ${score}/${quizData.length} questions</h2>`
         }
     }
 
